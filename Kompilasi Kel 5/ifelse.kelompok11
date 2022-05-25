@@ -1,0 +1,6 @@
+jawab=109
+benar="Jawaban benar!"
+salah="Jawaban salah!"
+
+NYETAK "Tebak angka dari 100-110!"
+YEN jawab == 101 maka NYETAK benar DADI NYETAK salah

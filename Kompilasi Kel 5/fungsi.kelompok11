@@ -1,0 +1,2 @@
+FUNGSI contoh() -> NYETAK "coba cetak fungsi"
+contoh()
